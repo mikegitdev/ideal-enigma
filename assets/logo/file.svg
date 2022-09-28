@@ -1,0 +1,35 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" fill="#F5F5F5"/>
+<g id="Course/Syllabus">
+<rect width="375" height="812" transform="translate(-16 -302)" fill="white"/>
+<g id="Frame 1247" clip-path="url(#clip0_574_15225)">
+<path id="Rectangle 1456" d="M-16 -115C-16 -128.807 -4.80712 -140 9 -140H334C347.807 -140 359 -128.807 359 -115V512H-16V-115Z" fill="white"/>
+<g id="Frame 1294">
+<g id="Week ">
+<mask id="path-2-inside-1_574_15225" fill="white">
+<path d="M0 -12H343V52H0V-12Z"/>
+</mask>
+<path d="M0 -12H343V52H0V-12Z" fill="white"/>
+<g id="Icon">
+<circle id="Ellipse 1" opacity="0.1" cx="20" cy="20" r="20" fill="#1A5CCE"/>
+<g id="Folder">
+<rect id="Rectangle 34" x="11.0928" y="8" width="19.0515" height="15.2131" rx="2" fill="#1A5CCE"/>
+<rect id="Rectangle 41" x="12.9485" y="13.5082" width="12.6186" height="0.786885" rx="0.393443" fill="white" fill-opacity="0.2"/>
+<path id="Rectangle 14" d="M8 15.9213C8 14.8012 8 14.2412 8.21799 13.8133C8.40973 13.437 8.71569 13.131 9.09202 12.9393C9.51984 12.7213 10.0799 12.7213 11.2 12.7213H15.8835C16.511 12.7213 16.8248 12.7213 17.1095 12.8079C17.3615 12.8846 17.5959 13.0104 17.7992 13.1779C18.0288 13.3671 18.2023 13.6285 18.5494 14.1513L19.0506 14.9061C19.3977 15.4288 19.5712 15.6902 19.8008 15.8795C20.0041 16.047 20.2385 16.1727 20.4905 16.2494C20.7752 16.3361 21.089 16.3361 21.7165 16.3361H28.8C29.9201 16.3361 30.4802 16.3361 30.908 16.554C31.2843 16.7458 31.5903 17.0518 31.782 17.4281C32 17.8559 32 18.416 32 19.5361V28.8C32 29.9201 32 30.4802 31.782 30.908C31.5903 31.2843 31.2843 31.5903 30.908 31.782C30.4802 32 29.9201 32 28.8 32H11.2C10.0799 32 9.51984 32 9.09202 31.782C8.71569 31.5903 8.40973 31.2843 8.21799 30.908C8 30.4802 8 29.9201 8 28.8V15.9213Z" fill="#FFAD47"/>
+<rect id="Rectangle 37" x="20.4949" y="28.9836" width="8.16495" height="1.04918" rx="0.52459" fill="white"/>
+<rect id="Rectangle 39" x="12.9485" y="9.04918" width="15.0928" height="1.04918" rx="0.52459" fill="white" fill-opacity="0.2"/>
+<rect id="Rectangle 40" x="12.9485" y="11.1475" width="8.16495" height="0.52459" rx="0.262295" fill="white" fill-opacity="0.2"/>
+<rect id="Rectangle 38" x="29.1546" y="28.9836" width="0.989691" height="1.04918" rx="0.494845" fill="white"/>
+</g>
+</g>
+<path d="M343 51H0V53H343V51Z" fill="#E5E5E5" mask="url(#path-2-inside-1_574_15225)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_574_15225">
+<rect width="375" height="650" fill="white" transform="translate(-16 -140)"/>
+</clipPath>
+</defs>
+</svg>

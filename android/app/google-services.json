@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "231606676531",
+    "project_id": "main-lms",
+    "storage_bucket": "main-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231606676531:android:fa88612796a266268f0746",
+        "android_client_info": {
+          "package_name": "com.support.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231606676531-3bf2roun3murph0418hlplq0uqes82co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3j_S5v8Dp-AfqIOL4pjKlZoYQcDVWvsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231606676531-3bf2roun3murph0418hlplq0uqes82co.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231606676531-hklc7k2fgomteu6i1foa9dtequq4vbra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.okaryo.cleanArchitectureTodoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
